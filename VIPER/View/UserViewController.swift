@@ -74,6 +74,6 @@ class UserViewController: UIViewController, UserViewProtocol,UITableViewDelegate
         return user.count
     }
     
-  
+
     
 }
